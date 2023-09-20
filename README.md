@@ -6,7 +6,7 @@ With this program, you can create, read, update, and delete entries for an e-com
 
 ## Usage
 
-Create a database with a .env file in the root directory. Name the database "ecommerce_db" and include your SQL username and password. Seed the database by going into the \Develop\ folder and entering "node seeds\index.js" in the terminal. Finally, while in the \Develop\ folder, enter "npm start" or "node server.js" in the terminal. Test the server application using Insomnia, preferably
+Create a database with a .env file in the root directory. Name the database "ecommerce_db" and include your SQL username and password. Seed the database by going into the \Develop\ folder and entering "node seeds\index.js" in the terminal. Finally, while in the \Develop\ folder, enter "npm start" or "node server.js" in the terminal. Test the server application using Insomnia, preferably.
 
 ## Demo
 
